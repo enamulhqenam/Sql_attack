@@ -1,0 +1,24 @@
+#error_based sql
+1. web Name: http://www.aspcdevrukh.ac.in/news.php?id=2 #7
+2. DB Name : aspcdevr_college
+3. Tb Name1 : TABLE 27
+4. Tb Name2 : admission_enquiry
+5. Tb Name3 : alumni
+6. Tb Name4 : announcement
+7. Tb Name5 : committee
+8. Tb Name6 : committee_year_wise
+9. Tb Name7 : contact_us
+10.Tb Name8 : counter
+11.Tb Name9 : course
+12.Tb Name10 : dept
+13.Tb Name11: employee
+14. Tb Name12 :google_form
+15. Tb Name13 : hostel
+(asmission_enquiry)
+col1 : id 
+col2 : name 
+col3 : email
+col4 : address
+col5 : city
+col6 : pincode
+

@@ -1,0 +1,12 @@
+1.http://heritageaviation.in/news.php?id=1 
+2.DB Name : heritage02017
+3.Tb no1 : city_master
+4.tb no2 : news_ticker
+5.tb no3 : tbl_signature
+6.tb no4 : tbl_slide
+7.tb no5 : tbladmin
+8.tb no6 : tblgallery
+9.tb no7 : tblgalleryphotos
+10.tb no8 : tbllogin_attempts
+11.tb no9 : tbllogin_info
+12.

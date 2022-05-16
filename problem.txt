@@ -1,0 +1,3 @@
+1.http://heritageaviation.in/news.php?id=-1		#The connection was reset
+2.http://teamtranslogistics.in/news.php?id=1		#Forbidden You don't have permission to access this resource.
+3.http://www.admtec.co.in/news.php?id=4			#Not changeble 
